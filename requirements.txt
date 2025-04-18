@@ -1,8 +1,1 @@
-fastapi
-uvicorn
-llama-index
-llama-index-llms-gemini
-llama-index-embeddings-gemini
-google-generativeai
 python-telegram-bot==22.0
-aiohttp
